@@ -2,7 +2,7 @@
 
 Live Demo:
 
-``` https://mx-git-branch-tree.vercel.app/
+``` https://mx-git-branch-tree.vercel.app/```
 
 
  
