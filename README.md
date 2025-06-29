@@ -2,9 +2,11 @@
 
 Live Demo:
 
-mx-git-branch-tree.vercel.app 
+``` mx-git-branch-tree.vercel.app 
+
+```
  
-GitHub Repo: github.com/Gyanankur23/mx-git-branch-tree
+GitHub Repo: ``` github.com/Gyanankur23/mx-git-branch-tree ```
 
 ---
 
@@ -94,7 +96,7 @@ mx-git-branch-tree/
 
 ---
 
-🌑 Light/Dark Mode
+# 🌑 Light/Dark Mode
 
 - Toggle theme anytime via ☀️/🌙 button in the navbar
 - State is saved using localStorage
