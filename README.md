@@ -1,12 +1,12 @@
 # 🌳 MX Git-Branch Tree Viewer
 
-Live Demo:
+## Live Demo:
 
 ``` https://mx-git-branch-tree.vercel.app/```
 
 
  
-GitHub Repo: ``` github.com/Gyanankur23/mx-git-branch-tree ```
+## GitHub Repo: ``` github.com/Gyanankur23/mx-git-branch-tree ```
 
 ---
 
@@ -43,7 +43,7 @@ Dev Tools  ESLint + JSX A11y
 
 # 🏗️ Project Structure
 
-`
+```
 mx-git-branch-tree/
 ├── public/
 │   └── vite.svg
@@ -70,7 +70,7 @@ mx-git-branch-tree/
 ├── postcss.config.js
 ├── tailwind.config.js
 └── vite.config.js
-`
+```
 
 ---
 
