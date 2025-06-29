@@ -1,12 +1,12 @@
 # 🌳 MX Git-Branch Tree Viewer
 
-## Live Demo:
+## ✨ Live Demo:
 
 ``` https://mx-git-branch-tree.vercel.app/```
 
 
  
-## GitHub Repo:
+## 👨‍💻 GitHub Repo:
 
  ``` github.com/Gyanankur23/mx-git-branch-tree ```
 
