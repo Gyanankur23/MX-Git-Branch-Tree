@@ -27,7 +27,9 @@ This tool is especially useful for developers, students, or recruiters who want 
 
 # 🖼️ Project Preview
 
-!Screenshot of MX Git-Branch Tree Viewer <!-- Replace this with an actual screenshot if you wish -->
+![Preview](public/images/Screenshot_2025-06-29-19-00-47-116_com.duckduckgo.mobile.android.jpg)
+
+![Try](public/images/Screenshot_2025-06-29-19-01-19-031_com.duckduckgo.mobile.android.jpg)
 
 ---
 
